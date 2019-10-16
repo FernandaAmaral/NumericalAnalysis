@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% gseidel %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                                                                        %
-% gseidel resolve Ax=b usando intera??o de Gauss-Seidel.                 %
+% gseidel resolve Ax=b usando interacao de Gauss-Seidel.                 %
 % Parametros:                                                            %
 % - A : nxn matrix                                                       %
 % - b : nxm matrix                                                       %
